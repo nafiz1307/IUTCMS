@@ -14,7 +14,9 @@
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Dosis:300,400,500,,600,700,700i|Lato:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Dosis:300,400,500,,600,700,700i|Lato:300,300i,400,400i,700,700i"
+        rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -41,16 +43,14 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-        <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+{{--        <a href="index.html" class="logo mr-auto"><img src="assets/img/IUTCMS.png" alt="" class="img-fluid"></a>--}}
         <!-- Uncomment below if you prefer to use text as a logo -->
-        <!-- <h1 class="logo mr-auto"><a href="index.html">Butterfly</a></h1> -->
+        <h1 class="logo mr-auto"><a href="index.html">IUTCMS</a></h1>
 
         <nav class="nav-menu d-none d-lg-block">
             <ul>
                 <li class="active"><a href="index.html">Home</a></li>
                 <li><a href="#about">About</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
                 <li><a href="#team">Team</a></li>
             </ul>
         </nav><!-- .nav-menu -->
@@ -65,7 +65,9 @@
         <div class="row">
             <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
                 <h1>A course management system for easily managing courses</h1>
-                <h2>A course management system is a platform of educational software allowing instructors and institutions to manage a variety of courses with a large number of students and multiple instructional materials.</h2>
+                <h2>A course management system is a platform of educational software allowing instructors and
+                    institutions to manage a variety of courses with a large number of students and multiple
+                    instructional materials.</h2>
                 <div><a href="#about" class="btn-get-started scrollto">Login</a></div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 hero-img">
@@ -86,26 +88,30 @@
                 <div class="col-xl-5 col-lg-6 d-flex justify-content-center video-box align-items-stretch">
                 </div>
 
-                <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-                    <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-                    <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
+                <div
+                    class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+                    <h3>IUTCMS - Course Management System</h3>
+                    <p>A course management system is a platform of educational software allowing instructors and
+                        institutions to manage a variety of courses with a large number of students and multiple
+                        instructional materials.</p>
 
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-fingerprint"></i></div>
-                        <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-                        <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                        <h4 class="title"><a href="">Easy Mangement</a></h4>
+                        <p class="description">Easily manage courses</p>
                     </div>
 
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-gift"></i></div>
-                        <h4 class="title"><a href="">Nemo Enim</a></h4>
-                        <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                        <h4 class="title"><a href="">Get information easily
+                            </a></h4>
+                        <p class="description">Get all information quickly and easily at a glance</p>
                     </div>
 
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-atom"></i></div>
-                        <h4 class="title"><a href="">Dine Pad</a></h4>
-                        <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+                        <h4 class="title"><a href="">Assign Faculties</a></h4>
+                        <p class="description">Assigning Faculties based on availability and notifications to hire if there is deficit of faculty</p>
                     </div>
 
                 </div>
@@ -119,66 +125,62 @@
 
             <div class="section-title">
                 <h2>Team</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
             </div>
 
             <div class="row">
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="icofont-twitter"></i></a>
-                                <a href=""><i class="icofont-facebook"></i></a>
-                                <a href=""><i class="icofont-instagram"></i></a>
-                                <a href=""><i class="icofont-linkedin"></i></a>
+                <div class="d-flex justify-content-between">
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                        <div class="member">
+                            <div class="member-img">
+                                <img src="assets/img/team/Nafiz.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                    <a href=""><i class="icofont-twitter"></i></a>
+                                    <a href=""><i class="icofont-facebook"></i></a>
+                                    <a href=""><i class="icofont-instagram"></i></a>
+                                    <a href=""><i class="icofont-linkedin"></i></a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Walter White</h4>
-                            <span>Chief Executive Officer</span>
+                            <div class="member-info">
+                                <h4>Nafiz Zaman</h4>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="icofont-twitter"></i></a>
-                                <a href=""><i class="icofont-facebook"></i></a>
-                                <a href=""><i class="icofont-instagram"></i></a>
-                                <a href=""><i class="icofont-linkedin"></i></a>
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                        <div class="member">
+                            <div class="member-img">
+                                <img src="assets/img/team/adiba.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                    <a href=""><i class="icofont-twitter"></i></a>
+                                    <a href=""><i class="icofont-facebook"></i></a>
+                                    <a href=""><i class="icofont-instagram"></i></a>
+                                    <a href=""><i class="icofont-linkedin"></i></a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Sarah Jhonson</h4>
-                            <span>Product Manager</span>
+                            <div class="member-info">
+                                <h4>Adiba Hasan</h4>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="icofont-twitter"></i></a>
-                                <a href=""><i class="icofont-facebook"></i></a>
-                                <a href=""><i class="icofont-instagram"></i></a>
-                                <a href=""><i class="icofont-linkedin"></i></a>
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                        <div class="member">
+                            <div class="member-img">
+                                <img src="assets/img/team/srijon.jpg" class="img-fluid" alt="">
+                                <div class="social">
+                                    <a href=""><i class="icofont-twitter"></i></a>
+                                    <a href=""><i class="icofont-facebook"></i></a>
+                                    <a href=""><i class="icofont-instagram"></i></a>
+                                    <a href=""><i class="icofont-linkedin"></i></a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>William Anderson</h4>
-                            <span>CTO</span>
+                            <div class="member-info">
+                                <h4>Muhtasim Srijon</h4>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
     </section><!-- End Team Section -->
 
