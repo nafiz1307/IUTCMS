@@ -19,12 +19,29 @@
 
     <!-- Custom styles for this template-->
     <link href="LoginAssets/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Dosis:300,400,500,,600,700,700i|Lato:300,300i,400,400i,700,700i"
+        rel="stylesheet">
 
 </head>
 
 <body class="bg-gradient-primary">
 
 <div class="container">
+    <div class="container d-flex align-items-center">
+
+
+        <!-- Uncomment below if you prefer to use text as a logo -->
+        <h1 class="logo mr-auto" ><a href="http://127.0.0.1:8000" style="color: black">IUTCMS</a></h1>
+
+        <nav class="nav-menu d-none d-lg-block">
+            <ul>
+                <li class="active"><a href="http://127.0.0.1:8000" style="color: black">Home</a></li>
+            </ul>
+        </nav><!-- .nav-menu -->
+
+    </div>
 
     <div class="card o-hidden border-0 shadow-lg my-5">
         <div class="card-body p-0">
