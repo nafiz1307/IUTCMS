@@ -52,7 +52,9 @@
                 <li class="active"><a href="{{url("/")}}">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#team">Team</a></li>
-                <li><a>Login</a></li>
+                <li>
+                    <a href="{{ route('login') }}">Login</a>
+                </li>
             </ul>
         </nav><!-- .nav-menu -->
 
@@ -69,7 +71,7 @@
                 <h2>A course management system is a platform of educational software allowing instructors and
                     institutions to manage a variety of courses with a large number of students and multiple
                     instructional materials.</h2>
-                <div><a href="#about" class="btn-get-started scrollto">Login</a></div>
+                <div><a href="{{ route('login') }}" class="btn-get-started scrollto">Login</a></div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 hero-img">
                 <img src="assets/img/hero-img.png" class="img-fluid" alt="">
