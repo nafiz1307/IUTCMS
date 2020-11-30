@@ -1,13 +1,4 @@
-/**
-* Template Name: Butterfly - v2.1.0
-* Template URL: https://bootstrapmade.com/butterfly-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -669,6 +660,8 @@ section {
   display: inline-block;
   transition: ease-in-out 0.3s;
   color: #fff;
+    font-family: "Lato", sans-serif ;
+    font-weight: bold;
 }
 
 .team .member .social a:hover {
@@ -709,22 +702,7 @@ section {
   bottom: 15px;
 }
 
-/*--------------------------------------------------------------
-# Gallery
---------------------------------------------------------------*/
-.gallery .gallery-item {
-  overflow: hidden;
-  border-right: 3px solid #fff;
-  border-bottom: 3px solid #fff;
-}
 
-.gallery .gallery-item img {
-  transition: all ease-in-out 0.4s;
-}
-
-.gallery .gallery-item:hover img {
-  transform: scale(1.1);
-}
 
 
 /*--------------------------------------------------------------
