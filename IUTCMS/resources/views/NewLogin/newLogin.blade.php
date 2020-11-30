@@ -20,6 +20,7 @@
     <!-- Custom styles for this template-->
     <link href="LoginAssets/css/sb-admin-2.min.css" rel="stylesheet">
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -30,6 +31,19 @@
 
     <!-- Outer Row -->
     <div class="row justify-content-center">
+        <div class="container d-flex align-items-center">
+
+
+            <!-- Uncomment below if you prefer to use text as a logo -->
+            <h1 class="logo mr-auto"><a href="http://127.0.0.1:8000">IUTCMS</a></h1>
+
+            <nav class="nav-menu d-none d-lg-block">
+                <ul>
+                    <li class="active"><a href="http://127.0.0.1:8000">Home</a></li>
+                </ul>
+            </nav><!-- .nav-menu -->
+
+        </div>
 
         <div class="col-xl-10 col-lg-12 col-md-9">
 
@@ -96,7 +110,7 @@
     </div>
 
 </div>
-<button type="button" class="btn btn-block btn-user">Home</button>
+
 
 <!-- Bootstrap core JavaScript-->
 <script src="vendor/jquery/jquery.min.js"></script>
