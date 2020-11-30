@@ -20,18 +20,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a947b4a-920a-4769-8ad4-13a561857642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/img/about1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/cms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/rsz_cms.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IUTCMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IUTCMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LandingPageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LandingPageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/team/team-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/team/team-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/team/team-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/img/team/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/about1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/clients/client-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/cms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/cta-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/gallery/gallery-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/gallery/gallery-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/gallery/gallery-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/gallery/gallery-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/gallery/gallery-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/gallery/gallery-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/gallery/gallery-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/gallery/gallery-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-details-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-details-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/portfolio/portfolio-details-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/rsz_cms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/FrontEnd/home.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/FrontEnd/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/FrontEnd/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +194,7 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
       <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
       <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kyCZxZApP3SMTadysPBMhcq1ID" />
@@ -197,6 +240,8 @@
       <workItem from="1606663506968" duration="5398000" />
       <workItem from="1606678079696" duration="87000" />
       <workItem from="1606678235606" duration="2582000" />
+      <workItem from="1606687626406" duration="587000" />
+      <workItem from="1606707775539" duration="6188000" />
     </task>
     <servers />
   </component>

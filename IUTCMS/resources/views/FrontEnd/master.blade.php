@@ -45,13 +45,14 @@
 
 {{--        <a href="index.html" class="logo mr-auto"><img src="assets/img/IUTCMS.png" alt="" class="img-fluid"></a>--}}
         <!-- Uncomment below if you prefer to use text as a logo -->
-        <h1 class="logo mr-auto"><a href="index.html">IUTCMS</a></h1>
+        <h1 class="logo mr-auto"><a href="{{url("/")}}">IUTCMS</a></h1>
 
         <nav class="nav-menu d-none d-lg-block">
             <ul>
-                <li class="active"><a href="index.html">Home</a></li>
+                <li class="active"><a href="{{url("/")}}">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#team">Team</a></li>
+                <li><a>Login</a></li>
             </ul>
         </nav><!-- .nav-menu -->
 
@@ -136,7 +137,6 @@
                                 <div class="social">
                                     <a href=""><i class="icofont-twitter"></i></a>
                                     <a href=""><i class="icofont-facebook"></i></a>
-                                    <a href=""><i class="icofont-instagram"></i></a>
                                     <a href=""><i class="icofont-linkedin"></i></a>
                                 </div>
                             </div>
@@ -153,7 +153,6 @@
                                 <div class="social">
                                     <a href=""><i class="icofont-twitter"></i></a>
                                     <a href=""><i class="icofont-facebook"></i></a>
-                                    <a href=""><i class="icofont-instagram"></i></a>
                                     <a href=""><i class="icofont-linkedin"></i></a>
                                 </div>
                             </div>
@@ -170,7 +169,6 @@
                                 <div class="social">
                                     <a href=""><i class="icofont-twitter"></i></a>
                                     <a href=""><i class="icofont-facebook"></i></a>
-                                    <a href=""><i class="icofont-instagram"></i></a>
                                     <a href=""><i class="icofont-linkedin"></i></a>
                                 </div>
                             </div>
