@@ -20,6 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a947b4a-920a-4769-8ad4-13a561857642" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/js/demo/chart-area-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/js/demo/chart-bar-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/js/demo/chart-pie-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/js/demo/datatables-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/js/sb-admin-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/js/sb-admin-2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_charts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_dropdowns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_error.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/navs/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/navs/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/navs/_topbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/sb-admin-2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/utilities/_animation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/utilities/_border.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/utilities/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/utilities/_rotate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/LoginAssets/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/FrontEnd/dashboard.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,13 +196,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nafiz\Desktop\Study\SPL2Project\IUTCMS\IUTCMS\resources\views" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nafiz\Desktop\Study\SPL2Project\IUTCMS\IUTCMS\public\LoginAssets" />
       <recent name="C:\Users\nafiz\Desktop\Study\SPL2Project\IUTCMS\IUTCMS\public\assets\vendor" />
       <recent name="C:\Users\nafiz\Desktop\Study\SPL2Project\IUTCMS\IUTCMS\public\assets\img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nafiz\Desktop\Study\SPL2Project\IUTCMS\IUTCMS\resources\views" />
     </key>
   </component>
   <component name="RunManager">
@@ -198,6 +228,10 @@
       <workItem from="1606729755378" duration="6139000" />
       <workItem from="1606735956399" duration="8291000" />
       <workItem from="1606744330215" duration="4345000" />
+      <workItem from="1606816968792" duration="628000" />
+      <workItem from="1606828535926" duration="595000" />
+      <workItem from="1606900077534" duration="1132000" />
+      <workItem from="1606907047658" duration="92000" />
     </task>
     <servers />
   </component>
